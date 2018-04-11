@@ -1,5 +1,6 @@
 # print-file-tree
-A simple C program that builds a tree of a given path of the file system. It also prints a user-friendly string representation including permission info to standard output.
+A simple C program that builds a tree of a given path of the file system. It also prints a user-friendly string representation including permission info to standard output.  
+Note: hash_functions.c and hash.h are not necessarily required here. Their job is to store the hash of each file to its TreeNode, which is used to building a file tree.
 
 ## Getting Started
 
