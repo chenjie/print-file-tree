@@ -111,3 +111,6 @@ Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-
 ## Bug Reporting
 Please log bugs under [Issues](https://github.com/jellycsc/print-file-tree/issues) tab on Github.  
 OR you can shoot an email to <nichenjie2013@gmail.com>
+
+## License
+This project is licensed under GNU General Public License v3.0 - see [LICENSE](LICENSE) file for more details.
